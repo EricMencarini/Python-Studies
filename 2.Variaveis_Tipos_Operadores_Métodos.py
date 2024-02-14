@@ -55,7 +55,7 @@ testa_str.count("T")    #Conta quantos "T" existem.
 testa_str.upper()       #Tudo maiúsculo 
 testa_str.lower()       #Tudo minúsculo
 testa_str.islower()     ##Verifica tudo minúsculo
-testa_str.capitalize    #Primeira metra maiúscula
+testa_str.capitalize    #Primeira letra maiúscula
 
 
 ##float
