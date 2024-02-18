@@ -3,6 +3,7 @@
 ###Tuplas##########
 ###################
 
+#Range
 
 intervalo = range(1,10)
 type(intervalo)
@@ -25,6 +26,7 @@ list(range(-1000,0,2))                              #Cria intervalo de -1000 a 0
 list(range(-1000,1,2))                              #Cria intervalo de -1000 a 0 incluindo o 0 
 
 
+#Tuplas
 tpl= "janeiro", "fevereiro","março"
 tpl2=("janeiro", 1, "fevereiro", 2, "março", 3)
 len(tpl)

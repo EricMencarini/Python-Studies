@@ -5,7 +5,7 @@
 #####Métodos#######
 ###################
 
-##int
+#%%
 idade = 33
 type(idade)
 
@@ -42,7 +42,7 @@ print(testa_str[0] + testa_str[9])
 print(len(testa_str)) #Número de chars
 testa_str[0:16] 
 testa_str[10:]
-testa_str[]
+testa_str[1:]
 testa_str[::2]  ## Slicer
 testa_str[::-1] ## Inverte String
 
@@ -66,4 +66,4 @@ type(versao)
 
 
 
-
+# %%
